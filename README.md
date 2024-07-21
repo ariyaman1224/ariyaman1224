@@ -15,24 +15,3 @@
 [![Tools I Use](https://skillicons.dev/icons?i=neovim,git,docker,linux,nginx,kubernetes,)](https://skillicons.dev)  
 **Cloud Platforms**  
 [![Cloud Services I Utilize](https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,firebase)](https://skillicons.dev)  
-
-## 🚀 **Projects and Achievements**
-
-### College Lab Server Centralization
-🔍 **Challenge:** Managing resource-intensive JDBC labs with Java8 and Oracle SQL.  
-💡 **Approach:** Upgraded an old rack server, deploying Oracle and Postgres SQL Databases via Docker on Ubuntu for seamless access.
-
-### College Storage Solution
-🔍 **Issue:** Sharing installation files via USB was cumbersome.  
-💡 **Solution:** Implemented a RAID NAS server using TrueNAS, enabling campus-wide network access.
-
-### HomeLab Adventures 🏡
-✨ **Motto:** Learn through hands-on experimentation and curiosity.
-
-- **Advanced Desk Setup for Gaming and Development**
-- **High-Speed Home Networking (up to 1Gbps)**
-- **NAS/Media Server and Kubernetes Testing Environment**
-- **Password Management/Docker Test Environment with SQL, NoSQL, Redis Servers**
-- **Rancher-Managed Kubernetes Cluster on Proxmox**
-- **Remote Wake-On-LAN via Custom IoT Project**
-- **Local DNS with PiHole on Raspberry Pi for HomeLab Devices**
