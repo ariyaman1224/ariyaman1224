@@ -1,6 +1,6 @@
 ### Good Day! ⓗⓔⓛⓛⓞ👋 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Ariyaman Debnath, a 22-year-old tech enthusiast with a passion for exploring and innovating. I love diving into both software and its architectural projects, tackling challenges that push technological limits. I'm currently enhancing my skills as a Full Stack Developer and Jr. DevOps Engineer, constantly exploring the vast landscape of software engineering.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Ariyaman Debnath, a 22-year-old tech enthusiast with a passion for exploring and innovating. I love diving into both software and its architectural componenets, tackling challenges that push technological limits. I'm currently enhancing my skills as a Full Stack Developer and Jr. DevOps Engineer, constantly exploring the vast landscape of software engineering.
 
 [My CV](https://resume-j8liqouhu-ariyamans-projects.vercel.app)  
 [Twitter/X](https://x.com/AriyamanDe12_24)
