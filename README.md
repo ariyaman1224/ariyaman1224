@@ -5,7 +5,7 @@ I'm **Ariyaman Debnath**, a 22-year-old tech enthusiast diving deep into softwar
 [**Check Out My CV**](https://resume-five-flame.vercel.app/)  
 [**Follow Me on Twitter/X**](https://x.com/AriyamanDe12_24)
 
-## Languages I Love 💻
+##Languages I woek with💻
 [![Languages I Use](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
 
 ## Frameworks I Use 🔥
