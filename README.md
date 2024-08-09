@@ -1,6 +1,6 @@
 # Hello, World! 🌍✨
 
-I'm **Ariyaman Debnath**, a 22-year-old tech enthusiast diving deep into software and architecture. As a budding **Full Stack Developer** and **Jr. DevOps Engineer**, I'm always exploring new frontiers in software engineering. Let's push those technological boundaries together!
+I'm **Ariyaman Debnath**, a 22-year-old tech enthusiast diving deep into software and architecture. As a budding **Full Stack Developer** and aspiring **DevOps Engineer**, I'm always exploring new frontiers in software engineering. Let's push those technological boundaries together!
 
 [**Check Out My CV**](https://resume-five-flame.vercel.app/)  
 [**Follow Me on Twitter/X**](https://x.com/AriyamanDe12_24)
