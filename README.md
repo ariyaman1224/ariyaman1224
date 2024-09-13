@@ -7,7 +7,7 @@ I'm **Ariyaman Debnath**, a 22-year-old tech enthusiast diving deep into softwar
 [**Follow Me on Twitter/X**](https://x.com/AriyamanDe12_24)
 
 ## Languages I work with💻
-[![Languages I Use](https://skillicons.dev/icons?i=ts,js,bash,python)](https://skillicons.dev)
+[![Languages I Use](https://skillicons.dev/icons?i=ts,js,bash,python,go)](https://skillicons.dev)
 
 ## Frameworks I Use 🔥
 [![Frameworks I Love](https://skillicons.dev/icons?i=react,next,tailwind,express,prisma,django,flask,graphql)](https://skillicons.dev)
