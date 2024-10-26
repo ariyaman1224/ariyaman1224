@@ -3,7 +3,7 @@
 I'm **Ariyaman Debnath**, a 22-year-old tech enthusiast diving deep into software and architecture. As a budding **Full Stack Developer** and aspiring **DevOps Engineer**, I'm always exploring in development as a person who loves the whole process of developing and architecting
 
 
-[**Check Out My CV**](https://resume-five-flame.vercel.app/)  : #
+[[**Check Out My CV**](https://resume-five-flame.vercel.app/) ] : #
 [**Follow Me on Twitter/X**](https://x.com/AriyamanDe12_24)
 
 ## Languages I work with💻
