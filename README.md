@@ -11,7 +11,7 @@ I'm **Ariyaman Debnath**, a 22-year-old tech explorer voyaging through the realm
 [![Languages I Use](https://skillicons.dev/icons?i=ts,js,bash,python,go,rust&theme=dark)](https://skillicons.dev)
 
 ## Frameworks Powering My Starship 🔥
-[![Frameworks I Love](https://skillicons.dev/icons?i=react,next,tailwind,express,prisma,hono,graphql&theme=dark)](https://skillicons.dev)
+[![Frameworks I Love](https://skillicons.dev/icons?i=react,next,tailwind,express,prisma,graphql&theme=dark)](https://skillicons.dev)
 
 ## Databases I Orbit 🗄️
 [![Databases I Work With](https://skillicons.dev/icons?i=postgres,redis,mongo,mysql&theme=dark)](https://skillicons.dev)
